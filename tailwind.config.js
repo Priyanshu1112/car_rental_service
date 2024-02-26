@@ -7,6 +7,9 @@ export default {
         white: "white",
       },
     },
+    container: {
+      center: true,
+    },
   },
   plugins: [],
 };
